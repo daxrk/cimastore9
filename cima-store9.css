@@ -78,7 +78,7 @@
 
         @media(max-width:550px){
   #my-video {
-    overflow: hidden;height: 410px;
+    overflow: hidden;height: 266px;
 
   }
 }    
@@ -86,7 +86,7 @@
   #my-video {
   max-width: 100%;
 width: 600px;
-    height: 410px;}
+    height: 266px;}
   }
 .video-js .vjs-big-play-button, .vjs-big-play-centered .vjs-big-play-button {
     font-size: 40px;
